@@ -10,6 +10,9 @@
     <img src= "https://github.com/AssortedCaret/AssortedCaret/blob/main/Badges/hibernate.svg">
     <img src="https://github.com/AssortedCaret/AssortedCaret/blob/main/Badges/Maven.svg">
     <img src="https://github.com/AssortedCaret/AssortedCaret/blob/main/Badges/postgres.svg"></p>
+    <br><h3 align="left"> My JavaRush: https://javarush.com/users/3053436</h3>
+    <br><h3 align="left"> My Codewars: https://www.codewars.com/users/AssortedCaret</h3>
+    <p align="center"><img src= "https://www.codewars.com/users/AssortedCaret/badges/small"></p>
   </center>
 </body>
 <!--
