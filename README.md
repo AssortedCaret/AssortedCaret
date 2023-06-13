@@ -1,7 +1,6 @@
-### Hi there 
 <body>
   <center>
-<big><b></big><h1 align="center">~ Hello everyone👋 ~</h1></b></big>
+<big><b></big><h1 align="center"> Hello everyone👋 </h1></b></big>
     <br>
     <h2 align="left"> About me: </h2>
     <br>
