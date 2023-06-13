@@ -13,6 +13,7 @@
     <br><h3 align="left"> My JavaRush: https://javarush.com/users/3053436</h3>
     <h3 align="left"> My Codewars: https://www.codewars.com/users/AssortedCaret</h3>
     <p align="left"><img src= "https://www.codewars.com/users/AssortedCaret/badges/large"></p>
+    <p align="center"><img src= "https://github.com/AssortedCaret/AssortedCaret/blob/main/Badges/prog.gif"></p>
   </center>
 </body>
 <!--
