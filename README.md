@@ -10,7 +10,7 @@
     <img src="https://github.com/AssortedCaret/AssortedCaret/blob/main/Badges/Maven.svg">
     <img src="https://github.com/AssortedCaret/AssortedCaret/blob/main/Badges/postgres.svg"></p>
     <p align="center"><img src= "https://www.codewars.com/users/AssortedCaret/badges/large"></p>
-    <p align="center"><img src= "https://github.com/AssortedCaret/AssortedCaret/blob/main/Badges/prog.gif"></p>
+    <p align="center"><img src= "https://github.com/AssortedCaret/AssortedCaret/blob/main/Badges/prog.gif" width="500" height="320"></p>
   </center>
 </body>
 <!--
